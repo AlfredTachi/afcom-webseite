@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useTranslation } from "react-i18next";
-import Button from "./button";
+import Button from "./Button";
 import { Menu, X } from "lucide-react";
 
 export default function Header() {
